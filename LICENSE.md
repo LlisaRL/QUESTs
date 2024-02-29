@@ -1,18 +1,3 @@
-# Introdução
-
-Este repositório contêm os códigos para as resoluções das perguntas 2, 3, 4 e 5 contidas no teste para o estágio de Desenvolvedora da empresa Target.
-
-
-## 🚀 Sobre mim
-I'm a Computer Science student who's really interested on AI and SmartCities.
-
-## Autores
-
-- [@LlisaRL](https://github.com/LlisaRL)
-
-
-## Licença
-
 Copyright (c) 2024 LlisaRL
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -32,42 +17,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-## Rodando localmente
-
-Clone o projeto
-
-```bash
-  git clone https://link-para-o-projeto
-```
-
-Entre no diretório do projeto
-
-```bash
-  cd my-project
-```
-
-Instale as dependências
-
-```bash
-  npm install
-```
-
-Inicie o servidor
-
-```bash
-  npm run start
-```
-
-
-## Stack utilizada
-
-**Back-end:** Python, JSON
-
-
-## Referência
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
