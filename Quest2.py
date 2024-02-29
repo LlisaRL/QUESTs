@@ -14,3 +14,5 @@ if Fibs(TermN):
     print("Pertence à sequência Fibonacci.")
 else:
     print("Não pertence à sequência Fibonacci.")
+    
+print("fim do programa")
