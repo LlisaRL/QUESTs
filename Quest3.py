@@ -175,3 +175,5 @@ maior_valor = max(valores_faturamento)
 
 print(f"Menor valor de faturamento: R${menor_valor:.2f}")
 print(f"Maior valor de faturamento: R${maior_valor:.2f}")
+
+print("fim do programa")
