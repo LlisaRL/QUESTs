@@ -1,7 +1,7 @@
 # Introdução
 
-Este repositório contêm os códigos para as resoluções das perguntas 2, 3, 4 e 5 contidas no teste para o estágio de Desenvolvedora da empresa Target.
-
+Este repositório contêm os códigos para as resoluções das perguntas 2 e 5 contidas no teste para o estágio de Desenvolvedora da empresa Target.
+Os códigos foram escritos e testados no Visual Studio Code.
 
 ## 🚀 Sobre mim
 I'm a Computer Science student who's really interested on AI and SmartCities.
